@@ -81,8 +81,7 @@ chmod +x setup.sh
 
 1. 📖 **[Read the freeCodeCamp article](https://www.freecodecamp.org/news/how-to-debug-kubernetes-pods-with-traceloop-a-complete-beginners-guide/)** - Complete beginner's guide
 2. 📊 **[Check the slides](https://docs.google.com/presentation/d/1aSs7_uCZqItxCU-6giCr6Ca1K4B8BCHhZ6GaIYEl1bg/edit?usp=sharing)** - Visual presentation from DevFest
-3. 💻 **[Try the demo](./demo/)** - Hands-on crash debugging
-4. 💬 **[Join the Inspektor Gadget community](https://kubernetes.slack.com/archives/CSYL75LF6)** - Get help and share experiences
+3. 💬 **[Join the Inspektor Gadget community](https://kubernetes.slack.com/archives/CSYL75LF6)** - Get help and share experiences
 
 ---
 
@@ -165,8 +164,8 @@ The Inspektor Gadget project has its own license. See their [repository](https:/
 ## 📬 Stay Connected
 
 - 🐦 Follow me on Twitter: [@Emidowojo](https://twitter.com/Emidowojo)
-- 📝 Read my blog: [TechonDiapers](https://techondiapers.hashnode.dev/)
-- 💼 Connect on LinkedIn: [opaluwaemidowojo](https://linkedin.com/in/opaluwaemidowojo)
+- 📝 Read my blog: [TechonDiapers](https://tech-on-diapers.hashnode.dev/)
+- 💼 Connect on LinkedIn: [opaluwaemidowojo](https://www.linkedin.com/in/emidowojo/)
 - 💬 Chat on Slack: #inspektor-gadget channel
 
 ---
