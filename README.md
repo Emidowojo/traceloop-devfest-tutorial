@@ -4,6 +4,7 @@
 [![DevFest](https://img.shields.io/badge/DevFest-Lagos%202025-blue)](https://devfest.withgoogle.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-debugging-326CE5?logo=kubernetes)](https://kubernetes.io/)
 [![freeCodeCamp](https://img.shields.io/badge/Tutorial-freeCodeCamp-0A0A23?logo=freecodecamp)](https://www.freecodecamp.org/news/how-to-debug-kubernetes-pods-with-traceloop-a-complete-beginners-guide/)
+[![YouTube](https://img.shields.io/badge/Webinar-CNCF-red?logo=youtube)](https://youtu.be/cR1yFRlMD7U)
 
 > **CCTV for your Kubernetes pods** - See exactly what your applications are doing at the kernel level using eBPF and Traceloop.
 
@@ -21,6 +22,21 @@ The freeCodeCamp article covers:
 - ✅ Complete installation guide
 - ✅ Real crash debugging walkthrough
 - ✅ Production use cases and best practices
+
+### Video Webinar
+🎥 **[Watch: Troubleshooting Kubernetes with Confidence (CNCF On-Demand)](https://youtu.be/cR1yFRlMD7U)**
+
+CNCF webinar covering:
+- ✅ Live Kubernetes troubleshooting demonstrations
+- ✅ Practical debugging workflows
+- ✅ Real-world problem-solving techniques
+- ✅ Q&A with the community
+
+**Choose your learning style:**
+- 📖 **Prefer reading?** → freeCodeCamp article
+- 🎥 **Prefer video?** → CNCF webinar
+- 💻 **Prefer hands-on?** → Demo in this repo
+- 📊 **Prefer slides?** → DevFest presentation
 
 ---
 
